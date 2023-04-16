@@ -1,0 +1,21 @@
+body{
+    color:tomato
+}
+.nav-link>a{
+    color:aqua
+}
+.test-link{
+    color:brown;
+}
+.test-link:hover,
+.test-link:focus{
+    color:blue
+}
+
+.header-link {
+    color: aqua;
+}
+
+.list > p{
+    color: aqua;
+}
